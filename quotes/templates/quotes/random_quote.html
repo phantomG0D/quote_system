@@ -1,23 +1,86 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <title>Random Quote</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>⚡ Random Quote Generator</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
     <style>
-        body { display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Arial, sans-serif; }
-        .quote-box { text-align: center; border: 2px solid #333; padding: 20px; border-radius: 8px; max-width: 600px; }
-        .quote-text { font-size: 1.5em; margin-bottom: 1em; }
-        .quote-author { font-size: 1.2em; font-style: italic; }
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: #0f0f0f;
+            font-family: 'Montserrat', sans-serif;
+            color: #ffffff;
+            padding: 20px;
+        }
+
+        .quote-box {
+            background: rgba(30, 30, 30, 0.85);
+            backdrop-filter: blur(8px);
+            border-radius: 15px;
+            padding: 40px;
+            max-width: 700px;
+            text-align: center;
+            box-shadow: 0 8px 32px rgba(0, 255, 255, 0.4);
+            transition: transform 0.3s ease;
+            border: 2px solid #00ffff;
+        }
+
+        .quote-box:hover {
+            transform: translateY(-5px);
+        }
+
+        .quote-text {
+            font-size: 2em;
+            font-weight: 600;
+            line-height: 1.4;
+            margin-bottom: 20px;
+            position: relative;
+            color: #ffffff;
+        }
+
+        .quote-text::before {
+            content: '“';
+            font-size: 3em;
+            position: absolute;
+            left: -0.5em;
+            top: -0.2em;
+            color: #00ffff;
+        }
+
+        .quote-author {
+            font-size: 1.5em;
+            font-style: italic;
+            color: #00bfff;
+        }
+
+        .no-quote {
+            font-size: 1.5em;
+            color: #ff4c4c;
+        }
     </style>
 </head>
+
 <body>
     <div class="quote-box">
         {% if quote %}
-            <div class="quote-text">"{{ quote.text }}"</div>
+            <div class="quote-text">{{ quote.text }}</div>
             <div class="quote-author">— {{ quote.author }}</div>
         {% else %}
-            <div>No quotes available.</div>
+            <div class="no-quote">⚠️ No quotes available.</div>
         {% endif %}
     </div>
 </body>
+
 </html>

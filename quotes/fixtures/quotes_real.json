@@ -22,5 +22,781 @@
             "text": "In the middle of difficulty lies opportunity.",
             "author": "Albert Einstein"
         }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 4,
+        "fields": {
+            "text": "The only way to do great work is to love what you do.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 5,
+        "fields": {
+            "text": "Life is what happens to you while you're busy making other plans.",
+            "author": "John Lennon"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 6,
+        "fields": {
+            "text": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 7,
+        "fields": {
+            "text": "It is during our darkest moments that we must focus to see the light.",
+            "author": "Aristotle"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 8,
+        "fields": {
+            "text": "The way to get started is to quit talking and begin doing.",
+            "author": "Walt Disney"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 9,
+        "fields": {
+            "text": "Don't let yesterday take up too much of today.",
+            "author": "Will Rogers"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 10,
+        "fields": {
+            "text": "You learn more from failure than from success. Don't let it stop you. Failure builds character.",
+            "author": "Unknown"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 11,
+        "fields": {
+            "text": "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 12,
+        "fields": {
+            "text": "People who are crazy enough to think they can change the world, are the ones who do.",
+            "author": "Rob Siltanen"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 13,
+        "fields": {
+            "text": "Failure will never overtake me if my determination to succeed is strong enough.",
+            "author": "Og Mandino"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 14,
+        "fields": {
+            "text": "Entrepreneurs are great at dealing with uncertainty and also very good at minimizing risk. That's the classic entrepreneur.",
+            "author": "Mohnish Pabrai"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 15,
+        "fields": {
+            "text": "We may encounter many defeats but we must not be defeated.",
+            "author": "Maya Angelou"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 16,
+        "fields": {
+            "text": "Knowing is not enough; we must apply. Wishing is not enough; we must do.",
+            "author": "Johann Wolfgang von Goethe"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 17,
+        "fields": {
+            "text": "Imagine your life is perfect in every respect; what would it look like?",
+            "author": "Brian Tracy"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 18,
+        "fields": {
+            "text": "We generate fears while we sit. We overcome them by action.",
+            "author": "Dr. Henry Link"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 19,
+        "fields": {
+            "text": "Whether you think you can or think you can't, you're right.",
+            "author": "Henry Ford"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 20,
+        "fields": {
+            "text": "Security is mostly a superstition. Life is either a daring adventure or nothing.",
+            "author": "Helen Keller"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 21,
+        "fields": {
+            "text": "The man who has confidence in himself gains the confidence of others.",
+            "author": "Hasidic Proverb"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 22,
+        "fields": {
+            "text": "The only impossible journey is the one you never begin.",
+            "author": "Tony Robbins"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 23,
+        "fields": {
+            "text": "In this life we cannot do great things. We can only do small things with great love.",
+            "author": "Mother Teresa"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 24,
+        "fields": {
+            "text": "Smart people learn from everything and everyone, average people from their experiences, stupid people already have all the answers.",
+            "author": "Socrates"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 25,
+        "fields": {
+            "text": "Do something wonderful, people may imitate it.",
+            "author": "Albert Schweitzer"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 26,
+        "fields": {
+            "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+            "author": "Nelson Mandela"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 27,
+        "fields": {
+            "text": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "author": "Winston Churchill"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 28,
+        "fields": {
+            "text": "The only true wisdom is in knowing you know nothing.",
+            "author": "Socrates"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 29,
+        "fields": {
+            "text": "It does not matter how slowly you go as long as you do not stop.",
+            "author": "Confucius"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 30,
+        "fields": {
+            "text": "Everything you've ever wanted is on the other side of fear.",
+            "author": "George Addair"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 31,
+        "fields": {
+            "text": "Believe you can and you're halfway there.",
+            "author": "Theodore Roosevelt"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 32,
+        "fields": {
+            "text": "The only person you are destined to become is the person you decide to be.",
+            "author": "Ralph Waldo Emerson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 33,
+        "fields": {
+            "text": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+            "author": "Maya Angelou"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 34,
+        "fields": {
+            "text": "If you want to lift yourself up, lift up someone else.",
+            "author": "Booker T. Washington"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 35,
+        "fields": {
+            "text": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+            "author": "Robert Louis Stevenson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 36,
+        "fields": {
+            "text": "When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.",
+            "author": "Helen Keller"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 37,
+        "fields": {
+            "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author": "Chinese Proverb"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 38,
+        "fields": {
+            "text": "A champion is defined not by their wins but by how they can recover when they fall.",
+            "author": "Serena Williams"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 39,
+        "fields": {
+            "text": "You have been assigned this mountain to show others it can be moved.",
+            "author": "Mel Robbins"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 40,
+        "fields": {
+            "text": "If you don't like something, change it. If you can't change it, change your attitude.",
+            "author": "Maya Angelou"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 41,
+        "fields": {
+            "text": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+            "author": "Ralph Waldo Emerson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 42,
+        "fields": {
+            "text": "It is better to be hated for what you are than to be loved for what you are not.",
+            "author": "André Gide"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 43,
+        "fields": {
+            "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+            "author": "Ralph Waldo Emerson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 44,
+        "fields": {
+            "text": "Be kind whenever possible. It is always possible.",
+            "author": "Dalai Lama"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 45,
+        "fields": {
+            "text": "Innovation distinguishes between a leader and a follower.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 46,
+        "fields": {
+            "text": "Your time is limited, don't waste it living someone else's life.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 47,
+        "fields": {
+            "text": "Stay hungry, stay foolish.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 48,
+        "fields": {
+            "text": "The whole secret of a successful life is to find out what is one's destiny to do, and then do it.",
+            "author": "Henry Ford"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 49,
+        "fields": {
+            "text": "If you're not stubborn, you'll give up on experiments too soon.",
+            "author": "Jeff Bezos"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 50,
+        "fields": {
+            "text": "Try not to become a person of success, but rather try to become a person of value.",
+            "author": "Albert Einstein"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 51,
+        "fields": {
+            "text": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+            "author": "Eleanor Roosevelt"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 52,
+        "fields": {
+            "text": "I have not failed. I've just found 10,000 ways that won't work.",
+            "author": "Thomas A. Edison"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 53,
+        "fields": {
+            "text": "A person who never made a mistake never tried anything new.",
+            "author": "Albert Einstein"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 54,
+        "fields": {
+            "text": "The person who says it cannot be done should not interrupt the person who is doing it.",
+            "author": "Chinese Proverb"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 55,
+        "fields": {
+            "text": "There are no traffic jams along the extra mile.",
+            "author": "Roger Staubach"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 56,
+        "fields": {
+            "text": "It is never too late to be what you might have been.",
+            "author": "George Eliot"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 57,
+        "fields": {
+            "text": "You become what you believe.",
+            "author": "Oprah Winfrey"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 58,
+        "fields": {
+            "text": "I would rather die of passion than of boredom.",
+            "author": "Vincent van Gogh"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 59,
+        "fields": {
+            "text": "A truly rich man is one whose children run into his arms when his hands are empty.",
+            "author": "Unknown"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 60,
+        "fields": {
+            "text": "It is impossible for a man to learn what he thinks he already knows.",
+            "author": "Epictetus"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 61,
+        "fields": {
+            "text": "Either write something worth reading or do something worth writing.",
+            "author": "Benjamin Franklin"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 62,
+        "fields": {
+            "text": "Nothing in the world can take the place of persistence.",
+            "author": "Calvin Coolidge"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 63,
+        "fields": {
+            "text": "The most difficult thing is the decision to act, the rest is merely tenacity.",
+            "author": "Amelia Earhart"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 64,
+        "fields": {
+            "text": "Every strike brings me closer to the next home run.",
+            "author": "Babe Ruth"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 65,
+        "fields": {
+            "text": "Definiteness of purpose is the starting point of all achievement.",
+            "author": "W. Clement Stone"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 66,
+        "fields": {
+            "text": "We must balance conspicuous consumption with conscious capitalism.",
+            "author": "Kevin Kruse"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 67,
+        "fields": {
+            "text": "Life shrinks or expands in proportion to one's courage.",
+            "author": "Anaïs Nin"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 68,
+        "fields": {
+            "text": "If you want to make enemies, try to change something.",
+            "author": "Woodrow Wilson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 69,
+        "fields": {
+            "text": "The best revenge is massive success.",
+            "author": "Frank Sinatra"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 70,
+        "fields": {
+            "text": "People often say that motivation doesn't last. Well, neither does bathing. That's why we recommend it daily.",
+            "author": "Zig Ziglar"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 71,
+        "fields": {
+            "text": "Life isn't about getting and having, it's about giving and being.",
+            "author": "Kevin Kruse"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 72,
+        "fields": {
+            "text": "If you do what you always did, you will get what you always got.",
+            "author": "Albert Einstein"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 73,
+        "fields": {
+            "text": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+            "author": "Pablo Picasso"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 74,
+        "fields": {
+            "text": "You can never cross the ocean until you have the courage to lose sight of the shore.",
+            "author": "Christopher Columbus"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 75,
+        "fields": {
+            "text": "I've missed more than 9000 shots in my career. I've lost almost 300 games. 26 times I've been trusted to take the game winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+            "author": "Michael Jordan"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 76,
+        "fields": {
+            "text": "The most common way people give up their power is by thinking they don't have any.",
+            "author": "Alice Walker"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 77,
+        "fields": {
+            "text": "The mind is everything. What you think you become.",
+            "author": "Buddha"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 78,
+        "fields": {
+            "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+            "author": "Chinese Proverb"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 79,
+        "fields": {
+            "text": "An unexamined life is not worth living.",
+            "author": "Socrates"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 80,
+        "fields": {
+            "text": "Eighty percent of success is showing up.",
+            "author": "Woody Allen"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 81,
+        "fields": {
+            "text": "Your most unhappy customers are your greatest source of learning.",
+            "author": "Bill Gates"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 82,
+        "fields": {
+            "text": "A customer is the most important visitor on our premises, he is not dependent on us. We are dependent on him.",
+            "author": "Mahatma Gandhi"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 83,
+        "fields": {
+            "text": "Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves.",
+            "author": "Steve Jobs"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 84,
+        "fields": {
+            "text": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+            "author": "Charles Darwin"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 85,
+        "fields": {
+            "text": "Money is like gasoline during a road trip. You don't want to run out of gas on your trip, but you're not doing a tour of gas stations.",
+            "author": "Tim O'Reilly"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 86,
+        "fields": {
+            "text": "Some people die at 25 and aren't buried until 75.",
+            "author": "Benjamin Franklin"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 87,
+        "fields": {
+            "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+            "author": "Aristotle"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 88,
+        "fields": {
+            "text": "The difference between ordinary and extraordinary is that little extra.",
+            "author": "Jimmy Johnson"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 89,
+        "fields": {
+            "text": "The successful warrior is the average man with laser-like focus.",
+            "author": "Bruce Lee"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 90,
+        "fields": {
+            "text": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+            "author": "Swami Vivekananda"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 91,
+        "fields": {
+            "text": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+            "author": "Dale Carnegie"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 92,
+        "fields": {
+            "text": "If you don't design your own life plan, chances are you'll fall into someone else's plan. And guess what they have planned for you? Not much.",
+            "author": "Jim Rohn"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 93,
+        "fields": {
+            "text": "Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do, so throw off the bowlines, sail away from safe harbor, catch the trade winds in your sails. Explore, Dream, Discover.",
+            "author": "Mark Twain"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 94,
+        "fields": {
+            "text": "Study the past, if you would divine the future.",
+            "author": "Confucius"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 95,
+        "fields": {
+            "text": "The average person puts only 25% of his energy and ability into his work. The world takes off its hat to those who put in more than 50% of their capacity, and stands on its head for those few and far between souls who devote 100%.",
+            "author": "Andrew Carnegie"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 96,
+        "fields": {
+            "text": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+            "author": "Henry David Thoreau"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 97,
+        "fields": {
+            "text": "What you get by achieving your goals is not as important as what you become by achieving your goals.",
+            "author": "Zig Ziglar"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 98,
+        "fields": {
+            "text": "You are never too old to set another goal or to dream a new dream.",
+            "author": "C.S. Lewis"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 99,
+        "fields": {
+            "text": "If you cannot do great things, do small things in a great way.",
+            "author": "Napoleon Hill"
+        }
+    },
+    {
+        "model": "quotes.quote",
+        "pk": 100,
+        "fields": {
+            "text": "What we think, we become.",
+            "author": "Buddha"
+        }
     }
 ]
