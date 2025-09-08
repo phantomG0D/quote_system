@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random Quote</title>
+    <style>
+        body { display: flex; justify-content: center; align-items: center; height: 100vh; font-family: Arial, sans-serif; }
+        .quote-box { text-align: center; border: 2px solid #333; padding: 20px; border-radius: 8px; max-width: 600px; }
+        .quote-text { font-size: 1.5em; margin-bottom: 1em; }
+        .quote-author { font-size: 1.2em; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="quote-box">
+        {% if quote %}
+            <div class="quote-text">"{{ quote.text }}"</div>
+            <div class="quote-author">— {{ quote.author }}</div>
+        {% else %}
+            <div>No quotes available.</div>
+        {% endif %}
+    </div>
+</body>
+</html>
